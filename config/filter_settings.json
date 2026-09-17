@@ -1,0 +1,22 @@
+{
+  "target_organizations": ["防衛省"],
+  "target_industries": [
+    "土木一式",
+    "大工",
+    "とび・土工・コンクリート",
+    "石",
+    "管",
+    "タイル・れんが・ブロック",
+    "鋼構造物",
+    "鉄筋",
+    "舗装",
+    "しゅんせつ",
+    "機械器具設置",
+    "水道施設",
+    "解体"
+  ],
+  "unified_qualification_keywords": ["全省庁統一資格"],
+  "min_estimated_price_jpy": 0,
+  "max_estimated_price_jpy": null,
+  "qualification_expiry_date": "2027-03-31"
+}

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.streamlit/secrets.toml
+*.db
+.DS_Store
+build/
+dist/
+*.spec
+雄山NJSS案件抽出_配布用/
+src/発注案件/
+雄山_候補案件_*.csv
+data/*.pdf
